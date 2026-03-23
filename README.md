@@ -1,0 +1,1 @@
+# odoo.addon.liesa.packages.third_party
